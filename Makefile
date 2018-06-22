@@ -1,12 +1,26 @@
 #####################################################
-# Argparse example for reading command line arguments.
-# This is a simple template example to simplify the
-# Command Line reading arguments.
+# Argparse Makefile for reading command line arguments.  This is a simple
+# template to simplify the Command Line arguments reading.
 #
-# Author: Jimmy Aguilar Mena
-# June 6, 2018
+# This file is part of the ArgParseCpp distribution Copyright (c) 2015 Jimmy
+# Aguilar Mena.
 #
-# This is under GPL license.
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, version 3.
+#
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
+#
+#  Author: Jimmy Aguilar Mena
+#  June 6, 2018
+#
+#  This is under GPL license.
 #####################################################
 
 all: argparse.x
